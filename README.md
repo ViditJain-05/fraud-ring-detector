@@ -81,7 +81,7 @@ fraud-ring-detector/
 
 ### 1. Clone & Setup Virtual Environment
 ```bash
-git clone https://github.com/your-username/fraud-ring-detector.git
+git clone https://github.com/ViditJain-05/fraud-ring-detector.git
 cd fraud-ring-detector
 
 # Create and activate virtual environment
