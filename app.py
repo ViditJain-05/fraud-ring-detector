@@ -128,7 +128,7 @@ def main():
         selected_ring_view = st.selectbox("Select Graph View", options=ring_options)
 
         st.divider()
-        st.markdown("[🔗 GitHub Repository](https://github.com/example/fraud-ring-detector)")
+        st.markdown("[🔗 GitHub Repository](https://github.com/ViditJain-05/fraud-ring-detector)")
         st.caption("ℹ️ **Synthetic Data Notice**: Real financial fraud ring data is confidential. This project uses self-simulated data to demonstrate graph neural network capabilities.")
 
     # Key Metrics Header
